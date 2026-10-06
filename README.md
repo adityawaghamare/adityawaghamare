@@ -152,7 +152,6 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityawaghamare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityawaghamare&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
