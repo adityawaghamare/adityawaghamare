@@ -109,6 +109,17 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
 
 ---
 
+
+## 🤝 Contact & Collaboration
+
+### 💎 Why work with me
+* 🎯 **Production-first mindset** — I architect systems that survive real-world chaos, malicious inputs, and continuous high-load operations.
+* 🔄 **End-to-end ownership** — From data structures and prompt mesh architectures to APIs, security vaults, and frontend dashboards.
+* 📈 **Business-value focus** — Every line of code directly optimizes revenue, efficiency, and system reliability.
+* 📦 **Clean handoffs** — Documented, tested, and modular codebases designed for effortless maintenance.
+
+
+
 ## 🏆 Achievements & Certifications
 
 ### 🥇 National Hackathon Finalist
@@ -133,6 +144,11 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
   Managed organizational budget, hosted technical workshops, and drove student tech initiatives.
 
 ---
+### 📬 Get in touch
+* 💼 **Open to:** AI System Architecture, Autonomous Agent Engineering, LLM Solutions, and Full-Stack Roles.
+* 🐙 **GitHub:** [@adityawaghamare](https://github.com/adityawaghamare)
+* 📁 **Flagship Project:** [AgentClaw](https://github.com/adityawaghamare/AgentClaw)
+
 
 ## 📈 GitHub Metrics & Analytics
 
@@ -148,5 +164,7 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
 ---
 
 <p align="center">
-  <i>Thanks for visiting! Let’s build scalable and intelligent systems together. ⚡</i>
+  <a href="https://github.com/adityawaghamare">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=130&section=footer" width="100%" alt="Footer Banner" />
+  </a>
 </p>
