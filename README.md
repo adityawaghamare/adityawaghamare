@@ -26,8 +26,6 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
 
 ---
 
----
-
 ## 🚀 Core Expertise
 
 | | Domain | Expertise & Solutions | Technology Stack |
@@ -149,7 +147,7 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
 * 🐙 **GitHub:** [@adityawaghamare](https://github.com/adityawaghamare)
 * 📁 **Flagship Project:** [AgentClaw](https://github.com/adityawaghamare/AgentClaw)
 
-
+---
 ## 📈 GitHub Metrics & Analytics
 
 <p align="center">
@@ -161,7 +159,6 @@ I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bache
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawaghamare&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
 <p align="center">
   <a href="https://github.com/adityawaghamare">
