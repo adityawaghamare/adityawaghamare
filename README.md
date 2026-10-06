@@ -26,6 +26,21 @@ I am a **Full-Stack Software Engineer** and **AI / Agentic Systems Architect** w
 
 ---
 
+---
+
+## 🚀 Core Expertise
+
+| | Domain | Expertise & Solutions | Technology Stack |
+|:---:|:---|:---|:---|
+| 🤖 | **Autonomous AI Agents** | Multi-agent collaboration, autonomous bounty hunting, tool-calling loops, sandboxed code execution | `LangChain` `Agent Frameworks` `Function Calling` `Docker Sandboxes` |
+| 🧠 | **LLM Engineering** | Multi-provider failover routing, prompt caching, fine-tuning, latency optimization | `Gemini API` `Groq` `OpenRouter` `Hugging Face` `FastAPI` |
+| ⚡ | **Full-Stack & Platforms** | Real-time interactive dashboards, glassmorphic interfaces, high-concurrency Node services | `TypeScript` `React 19` `Next.js` `Vite` `TailwindCSS` `Node.js` |
+| 🗄️ | **Data & ACID Persistence** | Write-ahead logging (WAL), key health telemetry, vector storage, reliable queuing | `SQLite (WAL)` `PostgreSQL` `pgvector` `LibSQL` |
+| 🌐 | **Web3 & On-Chain Settlement** | Multi-RPC failover transports, cryptographic zeroization signers, Base L2 automated payouts | `viem` `Base L2` `Ethereum` `EVM Smart Contracts` |
+| ☁️ | **Cloud & Infrastructure** | 24/7 autonomous deployment, process clustering, containerization, CI/CD | `Docker` `Koyeb` `Render` `AWS` `GitHub Actions` |
+
+---
+
 ## 🛠️ Technical Skills & Ecosystem
 
 ### 💻 Programming Languages
