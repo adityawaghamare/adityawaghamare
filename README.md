@@ -19,10 +19,10 @@
 
 I am a **Software Engineer** and **AI / Agentic Systems Architect** with a Bachelors Degree in Information Technology. I specialize in building autonomous multi-agent clusters, production-grade LLM applications, scalable web platforms, and decentralized infrastructure.
 
-- 🔭 **Focus**: Multi-Agent Systems, RAG Pipelines, Tool-Calling Protocols, and Autonomous LLM Orchestration.
-- ⚡ **Core Foundations**: Data Structures & Algorithms, Clean Architecture, and Scalable System Design.
-- 🎓 **Education**: Bachelor of Engineering (BE) in Information Technology.
-- 💬 **Ask me about**: LangChain, LangGraph, Python, React, Next.js, FastAPI, Solidity, and PyTorch.
+-  **Focus**: Multi-Agent Systems, RAG Pipelines, Tool-Calling Protocols, and Autonomous LLM Orchestration.
+-  **Core Foundations**: Data Structures & Algorithms, Clean Architecture, and Scalable System Design.
+-  **Education**: Bachelor of Engineering (BE) in Information Technology.
+-  **Ask me about**: LangChain, LangGraph, Python, React, Next.js, FastAPI, Solidity, and PyTorch.
 
 ---
 
